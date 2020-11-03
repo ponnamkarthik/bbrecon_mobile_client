@@ -4,7 +4,7 @@ A Mobile client for [Bug Bounty Recon](https://github.com/serain/bbrecon) Rest A
 
 ## Download
 
-![Android APK](https://github.com/ponnamkarthik/bbrecon_mobile_client/blob/master/demo/bbrecon.apk?raw=true)
+[Android APK](https://github.com/ponnamkarthik/bbrecon_mobile_client/blob/master/demo/bbrecon.apk?raw=true)
 
 ## Demo
 
